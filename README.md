@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! I'm Maisa Bomfim and welcome to my GitHub! 👋✨
 
 <!--
 **Maisabcruz/Maisabcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
