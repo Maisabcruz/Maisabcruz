@@ -1,4 +1,5 @@
 ### Hello World! I'm Maisa Bomfim and welcome to my GitHub! 👋✨
+Aprendendo com a OneBitCode!
 
 <!--
 **Maisabcruz/Maisabcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
